@@ -12,3 +12,13 @@ UserSettings/
 *.sln
 *.user
 *.userprefs
+# Unity Logs
+Logs/
+
+# Mac system file
+.DS_Store
+
+# Build folder
+Build.app/
+Build/
+*.app
